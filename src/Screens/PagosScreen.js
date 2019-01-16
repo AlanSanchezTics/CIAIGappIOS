@@ -132,7 +132,7 @@ export default class PagosScreen extends React.Component {
                 </Body>
               </CardItem>
             </Card>
-            <Text style={{ fontSize: 9, color: "#aaa" }}>Versión 2.2 Colegio Indira Gandhi® derechos Reservados©</Text>
+            <Text style={{ fontSize: 9, color: "#aaa" }}>Versión 2.0.1.2 Colegio Indira Gandhi® derechos Reservados©</Text>
           </View>
         </ScrollView>
       </View>
