@@ -79,7 +79,7 @@ export default class AvisosNivel extends Component {
                                 </CardItem>
                                 <CardItem>
                                     <Body>
-                                        <Text style={{fontSize:12}}>{rowData.descripcion}</Text>
+                                        <Text style={{fontSize:13}}>{rowData.descripcion}</Text>
                                     </Body>
                                 </CardItem>
                                 <CardItem footer>
